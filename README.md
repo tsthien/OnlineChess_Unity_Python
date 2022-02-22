@@ -1,5 +1,5 @@
 ### OnlineChess_Unity_Python. 
-Project was built on Python (UDP server) and C# (Unity Framwork). 
+Project was built on Python (UDP server) and C# (Unity Framework). 
 ### 1. Server:
 ##Run
 ```
