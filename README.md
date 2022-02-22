@@ -1,5 +1,11 @@
 ### OnlineChess_Unity_Python. 
-Project was built on Python (UDP server) and C# (Unity Framework). 
+Project was built on Python (UDP server) and C# (Unity Framework).  
+# Version:  
+Unity: 2019.4.23f1.  
+Python: 3.7.  
+# Python libraries dependencies:  
+
+
 ### 1. Server:
 ##Run
 ```
